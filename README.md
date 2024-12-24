@@ -10,7 +10,7 @@ Wangbo Zhao<sup>1</sup>, Yizeng Han<sup>2</sup>,  Jiasheng Tang<sup>2,3</sup>,  
 [Paper](https://arxiv.org/html/2410.03456v1)
 
 https://github.com/user-attachments/assets/44ef5f81-cfe0-4e59-b228-14cc0729f5c6
-
+We compare the generation speed of original DiT and the proposed DyDiT with $\lambda=0.5$ on a NVIDIA V100 32G GPU.
 
 
 
@@ -66,6 +66,7 @@ Currently, we provide a pre-trained checkpoint of DyDiT $\lambda=0.7$.
 |-------------------------------|-|-----------|-----------
 | DiT | 118.69 | 2.27 | - 
 |DyDiT $\lambda=0.7$| 84.33 |  2.12 | [🤗](https://huggingface.co/heisejiasuo/DyDiT/resolve/main/dydit_0.7.pth?download=true)
+|DyDiT $\lambda=0.5$| - |  - | -[🤗]()
 
 
 Run sample_0.7.sh to sample images and evaluate the performance.
@@ -81,11 +82,6 @@ The sample_ddp.py script which samples 50,000 images in parallel. It generates a
 
 
 
-
-
-
-## 🌟 Visualization
-We compare the generation speed of original DiT and the proposed DyDiT with $\lambda=0.5$ on a NVIDIA V100 32G GPU.
 
 
 
