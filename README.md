@@ -67,7 +67,7 @@ Currently, we provide a pre-trained checkpoint of DyDiT $\lambda=0.7$.
 |-------------------------------|-|-----------|-----------
 | DiT | 118.69 | 2.27 | - 
 |DyDiT $\lambda=0.7$| 84.33 |  2.12 | [🤗](https://huggingface.co/heisejiasuo/DyDiT/resolve/main/dydit_0.7.pth?download=true)
-|DyDiT $\lambda=0.5$| - |  - | -[🤗]()
+|DyDiT $\lambda=0.5$| - |  - | in progress
 
 
 Run sample_0.7.sh to sample images and evaluate the performance.
