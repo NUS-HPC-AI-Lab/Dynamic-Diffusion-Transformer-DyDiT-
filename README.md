@@ -10,6 +10,7 @@ Wangbo Zhao<sup>1</sup>, Yizeng Han<sup>2</sup>,  Jiasheng Tang<sup>2,3</sup>,  
 [Paper](https://arxiv.org/html/2410.03456v1)
 
 https://github.com/user-attachments/assets/44ef5f81-cfe0-4e59-b228-14cc0729f5c6
+
 We compare the generation speed of original DiT and the proposed DyDiT with $\lambda=0.5$ on a NVIDIA V100 32G GPU.
 
 
