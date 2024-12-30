@@ -1,4 +1,10 @@
-# Dynamic-Diffusion-Transformer
+<h1 align="center"> <p>Dynamic Diffusion Transformer</p></h1>
+
+<p align="center">
+  <picture>
+    <img width="20%" alt="Dynamic-Tuning" src="./logo.png">
+  </picture>
+</p>
 
 The official implementation of "2024 Dynamic Diffusion Transformer".
 
