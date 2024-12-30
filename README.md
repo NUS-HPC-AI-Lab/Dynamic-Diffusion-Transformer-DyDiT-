@@ -2,7 +2,7 @@
 
 <p align="center">
   <picture>
-    <img width="20%" alt="Dynamic-Tuning" src="./logo.png">
+    <img width="20%" alt="Dynamic-Tuning" src="./assets/logo.png">
   </picture>
 </p>
 
