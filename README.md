@@ -2,7 +2,7 @@
 
 <p align="center">
   <picture>
-    <img width="20%" alt="Dynamic-Tuning" src="./assets/logo.png">
+    <img width="40%" alt="Dynamic Diffusion Transformer" src="./assets/logo.png">
   </picture>
 </p>
 
