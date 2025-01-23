@@ -31,6 +31,7 @@ Diffusion Transformer (DiT), an emerging diffusion model for image generation, h
 
 
 ## 🚀 News
+- `2025.01.23` DyTDyT is accepted by ICLR 2025!!! We will update the code and paper soon.
 - `2024.12.19:` We release the code for inference. 
 - `2024.10.04:` Our paper is released.
 
